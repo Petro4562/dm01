@@ -1,0 +1,27 @@
+[
+    {
+      "title_plugin": "Adee - проверка контрастности",
+      "url_plugin" : "https://www.figma.com/community/plugin/931280467863251825/Adee-Comprehensive-Accessibility-Tool",
+      "image_plugin": "https://i.postimg.cc/L40zm2gC/plagin-1.png"
+    },
+    {
+      "title_plugin": "Annotation - аннотации к объектам",
+      "url_plugin" : "https://www.figma.com/community/plugin/869023777052661819/Annotation",
+      "image_plugin": "https://i.postimg.cc/sg5SPW6q/plagin-2.png"
+    },
+    {
+      "title_plugin": "Color palettes - Цветовые комбинации",
+      "url_plugin" : "https://www.figma.com/community/plugin/740832935938649295/Color-Palettes",
+      "image_plugin": "https://i.postimg.cc/tT4xHMqG/plagin-3.png"
+    },
+    {
+      "title_plugin": "Figmaster - Вся информация по Фигме",
+      "url_plugin" : "https://www.figma.com/community/plugin/740832935938649295/Color-Palettes",
+      "image_plugin": "https://i.postimg.cc/CLqfYDg5/plagin-4.png"
+    },
+    {
+      "title_plugin": "Fish Text - Генерирует рыба-текст",
+      "url_plugin" : "https://www.figma.com/community/plugin/782180430431612681/%D0%A0%D1%8B%D0%B1%D0%B0%D0%A2%D0%B5%D0%BA%D1%81%D1%82---fish-text.ru",
+      "image_plugin": "https://i.postimg.cc/DZ08N462/plagin-5.png"
+    }
+  ]
