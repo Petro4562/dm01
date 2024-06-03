@@ -1,4 +1,10 @@
 [
+{
+      "name": "Путь в дизайн",
+      "date": "Завтра",
+      "url" : "https://salebot.site/md/designway",
+      "image": "https://post-images.org/photo-page.php?photo=q7QaUElX"
+    },    
     {
       "name": "Нейросети для жизни",
       "date": "3-4 июня",
@@ -9,7 +15,7 @@
       "name": "Волшебный пинок",
       "date": "10–13 июня",
       "url" : "https://salebot.site/md/magickkickorg",
-      "image": "https://i.postimg.cc/ZnrZsJGb/logo-2.png"
+      "image": "https://post-images.org/photo-page.php?photo=oSiH4sDT"
     },
     {
       "name": "Билет в профессию UX/UI-дизайнер",
@@ -27,6 +33,6 @@
       "name": "Иллюстрация",
       "date": "26-27 июня",
       "url" : "https://salebot.site/md/illustratorslm",
-      "image": "https://i.postimg.cc/5NSbwN5p/logo-4.png"
+      "image": "https://post-images.org/photo-page.php?photo=tZjHfwOi"
     }
   ]
